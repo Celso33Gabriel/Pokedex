@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.Up2Date
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\ASUS\Documents\Proyectos C#\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Gabriel\Downloads\Pokedex-20250509T192658Z-1-001\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\Pokedex-20250509T192658Z-1-001\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Gabriel\Downloads\Pokedex-20250509T192658Z-1-001\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
